@@ -17,7 +17,7 @@
         android:layout_margin="20dp"
         android:gravity="center"
         android:padding="10dp"
-        android:text="TextView in Android"
+        android:text="Assignment"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="20sp"
