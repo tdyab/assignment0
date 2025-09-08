@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         asst0txt = findViewById(R.id.idasst0);
-        asst0txt.setText("assignment by tala diab");
+        asst0txt.setText("by Tala Diab");
     }
 }
